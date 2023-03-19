@@ -18,6 +18,7 @@ fyne v2の変更点については[こちらの情報](https://developer.fyne.io
 ```shell
 cd golang-hands-on
 go mod init myapp
+go get fyne.io/fyne/v2@latest
 go get fyne.io/fyne/v2...
 ```
 
